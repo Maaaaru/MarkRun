@@ -1,0 +1,2 @@
+beautifulsoup4 == 4.10.0
+markdown2 >= 2.4.0
