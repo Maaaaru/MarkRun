@@ -15,10 +15,6 @@ Markdown code execution tool
 
 # What is this
 
-This tool scans files for the presence of dangerous functions that can cause XSS.
-
-# Why React-XSS-Scanner?
-
 This is a tool that extracts and executes code from a given markdown file
 
 # Instalation
